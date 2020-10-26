@@ -19,7 +19,7 @@ The database can be started and stopped from the command line:
 
 ## Running the service
 The service can be started either by using an IDE or via the command line:
-- To run: java -jar target/demo-graphql-0.0.1-SNAPSHOT.jar
+- To run: java -jar target/graphql-demo-0.0.1-SNAPSHOT.jar
 
 ## GraphQL API documentation
 To view the GraphQL API documentation and interact with the application:
